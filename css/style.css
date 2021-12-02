@@ -1,0 +1,55 @@
+#over-all-page {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#join {
+    margin: 20px;
+}
+
+#join {
+    background-color: white;
+    color: #48A5A1;
+}
+
+#hassle-free{
+    margin: 20px;
+    color: #C8DC6D;
+}
+
+#gain-access {
+    color: #DFE2EC;
+    margin: 20px;
+}
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+#subscription {
+    background-color: #2BB3B1;
+    padding: 20px;
+    box-sizing: border-box;
+}
+#subscription, #why-us{
+    width: 50%;
+    color: white;
+}
+#why-us {
+    background-color: #4ABEBD;
+}
+
+button {
+    width: 50%;
+    height: 50px;
+    font-size: 20px;
+    background-color: #BFDF32;
+    color: white;
+    margin: 20px;
+    text-align: auto;
+}
+
+ul {
+    list-style-type: none;
+}
