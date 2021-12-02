@@ -14,12 +14,18 @@
 #gain-access {
     color: #DFE2EC;
 }
-
+@media (max-width: 600px) {  
+        div #subscription, div #why-us {
+            width: 100%;
+        }
+}
+   
 #container {
     display: flex;
     flex-wrap: wrap;
-    margin: auto;
+    margin: auto;        
 }
+
 #subscription {
     background-color: #2BB3B1;
     padding: 20px;
