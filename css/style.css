@@ -18,6 +18,9 @@
         div #subscription, div #why-us {
             width: 100%;
         }
+        div button {
+            width: 80%;
+        }
 }
    
 #container {
@@ -46,6 +49,7 @@ button {
     background-color: #BFDF32;
     color: white;
     margin: auto;
+    border-radius: 10px;
 }
 
 ul {
