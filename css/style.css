@@ -1,4 +1,4 @@
-#join {
+#join, #hassle-free, #gain-access {
     margin: 20px;
 }
 
@@ -8,13 +8,11 @@
 }
 
 #hassle-free{
-    margin: 20px;
     color: #C8DC6D;
 }
 
 #gain-access {
     color: #DFE2EC;
-    margin: 20px;
 }
 
 #container {
@@ -41,8 +39,7 @@ button {
     font-size: 20px;
     background-color: #BFDF32;
     color: white;
-    margin: 20px;
-    text-align: auto;
+    margin: auto;
 }
 
 ul {
