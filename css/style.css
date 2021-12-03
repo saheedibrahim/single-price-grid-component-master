@@ -60,3 +60,6 @@ button {
 ul {
     list-style-type: none;
 }
+li{
+    padding-top: 5px;
+}
