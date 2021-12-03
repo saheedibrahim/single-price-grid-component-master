@@ -15,10 +15,7 @@
     color: #DFE2EC;
 }
 @media (max-width: 600px) {  
-        div #sub-container, div #why-us {
-            width: 100%;
-        }
-        div button {
+        div #sub-container, div #why-us, div button {
             width: 100%;
         }
 }
