@@ -1,7 +1,7 @@
 body{
-    background-color: #E6EFF6; 
+    background-color: #E6EFF6;
 }
-div #inner-body {
+#inner-body {
     width: 60%;
     margin-left: 20%;
     margin-right: 20%;
@@ -9,12 +9,9 @@ div #inner-body {
     margin-bottom: 60px;
     box-sizing: border-box;
 }
-#joinu{
+#join-community{
     background-color: #ffffff;
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
-    border-bottom-left-radius: 20px;
-    border-bottom-right-radius: 20px;
+    border-radius: 20px;
 }
 #join, #hassle-free, #gain-access {
     margin: 20px;
@@ -23,6 +20,7 @@ div #inner-body {
 #join {
     background-color: white;
     color: #48A5A1;
+    padding-top: 30px;
 }
 
 #hassle-free{
@@ -35,6 +33,19 @@ div #inner-body {
 @media (max-width: 600px) {  
         div #sub-container, div #why-us, div button {
             width: 100%;
+        }
+        #why-us{
+            border-bottom-left-radius: 20px;
+            border-bottom-right-radius: 20px;
+
+        }
+        div #sub-container {
+            border-bottom-left-radius: 0px;
+        }
+        #inner-body {
+            width: 80%;
+            margin-left: 10%;
+            margin-right: 10%;
         }
 }
    
@@ -71,7 +82,7 @@ div #container {
     text-align: center;
 }
 button {
-    width: 100%;
+    width: 80%;
     font-size: 20px;
     background-color: #BFDF32;
     color: white;
