@@ -56,7 +56,7 @@ div #container {
     box-sizing: border-box;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 #subscription {
     padding: 20px;
