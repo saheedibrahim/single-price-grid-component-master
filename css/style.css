@@ -27,7 +27,7 @@ body{
     color: #C8DC6D;
 }
 
-#gain-access {
+.gain-access {
     color: #DFE2EC;
 }
 @media (max-width: 600px) {  
