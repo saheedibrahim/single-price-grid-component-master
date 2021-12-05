@@ -49,6 +49,13 @@ body{
             margin-right: 10%;
         }
 }
+@media (max-width: 768px){   
+    #inner-body {
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+}
    
 div #container {
     display: flex;
